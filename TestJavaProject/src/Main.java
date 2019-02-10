@@ -9,6 +9,7 @@ public class Main {
 	private static void displayGreetings() {
 		System.out.println("Hello Good Morning!");
 		System.out.println("-------------------");
+		System.out.println("How are you doing?");
 	}
 	
 }
